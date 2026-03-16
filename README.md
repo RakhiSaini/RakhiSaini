@@ -31,7 +31,7 @@ I enjoy building **responsive UI, scalable backend systems, and complete end-to-
 
 ### Full Stack Developer  
 **Finnvare Ed-Tech Technologies LLP (Remote)**  
-📅 Feb 2025 – Present
+📅 Feb 2025 – Feb 2026
 
 - Developed and maintained financial web applications.
 - Built responsive frontend using **React.js and modern CSS**.
@@ -49,6 +49,7 @@ I enjoy building **responsive UI, scalable backend systems, and complete end-to-
 
 - Built a financial website using **React.js and CSS**.
 - Implemented backend APIs using **Node.js**.
+- Designed responsive layouts for **mobile, tablet, and desktop**.
 - Integrated **IPO and stock data using Google Sheets API**.
 - Deployed on **Hostinger VPS with SSL and DNS configuration**.
 
@@ -117,7 +118,7 @@ Domain & DNS Configuration • SSL Setup • Production Deployment
 https://www.linkedin.com/in/rakhi-saini-68a072223/
 
 🌐 Portfolio  
-(Add your portfolio link here)
+https://rakhisaini.github.io/Portfolio/
 
 ---
 
